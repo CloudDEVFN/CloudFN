@@ -1,0 +1,45 @@
+{
+  "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_680_Athena_Commando_M_StreetRat"
+    ],
+    "price": 1200
+  },
+  "daily2": {
+    "itemGrants": [
+      "AthenaGlider:Glider_ID_156_SummerBomber"
+    ],
+    "price": 500
+  },
+  "daily3": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_ID_019_Heart"
+    ],
+    "price": 800
+  },
+  "daily4": {
+    "itemGrants": [
+      "AthenaItemWrap:Wrap_185_SnowCover"
+    ],
+    "price": 0
+  },
+  "daily5": {
+    "itemGrants": [
+      "AthenaBackpack:BID_106_GarageBandMale"
+    ],
+    "price": 1500
+  },
+  "featured1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_571_Athena_Commando_F_Sheath"
+    ],
+    "price": 1500
+  },
+  "featured2": {
+    "itemGrants": [
+      "AthenaGlider:Glider_ID_094_SamuraiUltra"
+    ],
+    "price": 800
+  }
+}
