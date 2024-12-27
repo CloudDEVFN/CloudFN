@@ -27,7 +27,6 @@ app.use(require("./structure/affiliate.js"));
 app.use(require("./structure/matchmaking.js"));
 app.use(require("./structure/cloudstorage.js"));
 app.use(require("./structure/mcp.js"));
-app.use(require("./Config/catalog_config.json"));
 
 // Start Server
 const port = process.env.PORT || 3551;
