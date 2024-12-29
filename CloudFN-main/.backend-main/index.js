@@ -43,7 +43,7 @@ app.listen(port, () => {
 });
 
 // Ensure directories exist
-const appDataPath = path.join(process.env.LOCALAPPDATA, "CloudFN-main");
+const appDataPath = path.join(process.env.LOCALAPPDATA, "CloudFN");
 const fallbackPath = path.join(__dirname, "ClientSettings");
 
 try {
